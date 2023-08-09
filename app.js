@@ -23,7 +23,7 @@ const field1 = new articleModel({
  
     title:"Npm",
     content:"It is the node package manner"
-    //Raj
+    
 })
 const field2 = new articleModel({
    
